@@ -134,8 +134,8 @@ Basic knowledge of **C++**, **Solidity**, **Go**, **Python**
 * Human Languages:
 
      * Spanish (native speaker)
-     * English (needs improvement)
-     * Esperanto (need practice)
+     * English
+     * Esperanto
 
 * Other technologies used
 
