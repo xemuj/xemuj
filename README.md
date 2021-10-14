@@ -16,11 +16,9 @@ Here are some ideas to get you started:
 -->
 # Sergio Ovalle
 
-------------------- ----------------------------
-Blvrd. Hosp. Militar 12-80 Zona 16 Guatemala city | 
+------------------- ---------------------------- 
 [sergio@lynx.com.gt] | 
-[@ovallegt] | 
-+1 (203) 807-8791| 
+[@ovallegt] |  
 [GitHub] user: xemuj
 ------------------- ----------------------------
 
